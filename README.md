@@ -1,6 +1,3 @@
-# LAPORAN PRAKTIKUM SISTEM INFORMASI GEOGRAFIS
-**Modul 7: Integrasi FastAPI dan PostGIS**
-
 **Nama:** Adi Septriansyah  
 **NIM:** 123140021  
 **Program Studi:** Teknik Informatika  
